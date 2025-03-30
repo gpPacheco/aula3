@@ -10,11 +10,9 @@ O usuário pode pesquisar pelo nome do Pokémon e visualizar detalhes como nome,
 
 
 ### Imagens:
-```html
 <img src="/readme1.png"  />
-<img src="/readme2" />
+<img src="/readme2.png" />
 <img src="/readme3.png"  />
-```
 
 
 ## Tecnologias Utilizadas
